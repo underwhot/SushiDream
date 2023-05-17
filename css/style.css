@@ -3496,6 +3496,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
             backdrop-filter: blur(10px);
   }
 
+  .side-menu_mobile {
+    display: none;
+  }
+
   .terms__column:last-child {
     padding-top: 1.875rem;
   }
@@ -4090,6 +4094,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .side-menu .red-on-hover {
     fill: #C83A2E;
+  }
+
+  .side-menu_pc {
+    display: none;
   }
 
   .side-menu__list {
