@@ -7980,8 +7980,7 @@
         aos.init({
             offset: 200,
             duration: 800,
-            once: true,
-            disable: "mobile"
+            once: true
         });
         const body = document.querySelector("body");
         const sideMenu = document.querySelector(".side-menu");
